@@ -45,7 +45,7 @@ npm install
 
   4. Inicie o projeto:
 ```sh
-expo start
+npx expo start
 ``` 
 
 ## Imagens
