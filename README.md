@@ -30,7 +30,7 @@ O projeto IgniteTeams foi desenvolvido para ajudar na organização de pessoas q
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/ignite-teams.git
+   git clone https://github.com/GabrielPradoAffonso/ignite-teams.git
    ```
 
   2. Navegue até o diretório do projeto:
@@ -49,9 +49,11 @@ npx expo start
 ``` 
 
 ## Imagens
+![WhatsApp Image 2024-07-31 at 12 51 14](https://github.com/user-attachments/assets/9f59ad92-6b4e-497d-83ff-642eb1b9692d) 
 
+![WhatsApp Image 2024-07-31 at 12 51 14 (1)](https://github.com/user-attachments/assets/78cb26aa-cb9f-420d-af4f-ab34679e7370)
 
-
+![WhatsApp Image 2024-07-31 at 12 51 14 (2)](https://github.com/user-attachments/assets/a37b2938-635d-41f8-b160-45386e8eeb70)
 
 ##  Contribuição
 Contribuições são bem-vindas! Se você tiver alguma ideia ou encontrar algum bug, por favor, abra uma issue ou envie um pull request.
